@@ -1,2 +1,0 @@
-# LiteBan Web Template
-
