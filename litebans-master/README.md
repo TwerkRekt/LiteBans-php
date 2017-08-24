@@ -8,5 +8,5 @@ Web interface for [LiteBans](https://www.spigotmc.org/resources/litebans.3715/)
 
 * Click [here](https://chaottiic.com/demo/litebans/bans.php) for demo!
 * You may edit whatever you want.
-* You may remove the [copyright](https://api.chaottiic.com/i/45-11-24.png). 
+* You may remove the copyright. 
 * You must have the [LiteBans Plugin](https://www.spigotmc.org/resources/litebans.3715/)
